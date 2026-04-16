@@ -245,7 +245,7 @@ a {
 .hover1 {
     display: inline-block;
     color: #FFF;
-    background-color: #1141BE;
+    background-color: #0d5195;
     padding: 15px 30px;
     border-radius: 8px;
     transition: all 0.3s ease;
@@ -265,7 +265,7 @@ a {
 }
 
 .hover2:hover {
-    background-color: #1141BE !important;
+    background-color: #0d5195 !important;
     color: #FFF !important;
     transition: all 0.3s ease;
 }
@@ -383,8 +383,8 @@ a {
 #preloader .spinner {
     position: absolute;
     border: 3px solid #FFF;
-    border-top: 3px solid #1141BE;
-    border-bottom: 3px solid #1141BE;
+    border-top: 3px solid #0d5195;
+    border-bottom: 3px solid #0d5195;
     border-radius: 50%;
     width: 100%;
     height: 100%;
@@ -650,13 +650,13 @@ a {
 
 header a.active,
 header a:hover {
-    color: #1141BE !important;
+    color: #0d5195 !important;
 }
 
 .navbar .container-fluid button {
     display: none;
     padding: 9px 14px;
-    background-color: #1141BE;
+    background-color: #0d5195;
     border: none;
     border-radius: 10px;
     font-size: 25px;
@@ -688,7 +688,7 @@ header a:hover {
 
 .dropdown ul li a:hover,
 .dropdown ul li a.active {
-    background-color: #1141BE;
+    background-color: #0d5195;
     color: #FFF !important;
 }
 
@@ -714,7 +714,7 @@ aside #sideNav .d-flex {
 
 aside .fa-xmark {
     padding: 8px 13px;
-    background-color: #1141BE;
+    background-color: #0d5195;
     color: #FFF;
     border: none;
     border-radius: 10px;
@@ -739,7 +739,7 @@ aside button {
 }
 
 aside a:hover {
-    color: #1141BE;
+    color: #0d5195;
 }
 
 aside li {
@@ -1194,7 +1194,7 @@ aside li {
 }
 
 .About-us h4 {
-    color: #1141BE;
+    color: #0d5195;
     margin-bottom: 25px;
 }
 
@@ -1468,7 +1468,7 @@ aside li {
 }
 
 .We-Do h4 {
-    color: #1141BE;
+    color: #0d5195;
 }
 
 .We-Do h2 {
@@ -1512,7 +1512,7 @@ aside li {
 }
 
 .We-Do .d-flex a {
-    color: #1141BE;
+    color: #0d5195;
     font-weight: 600;
     transition: all 0.3s ease;
 }
@@ -1712,7 +1712,7 @@ aside li {
 }
 
 .Choose-us h4 {
-    color: #1141BE;
+    color: #0d5195;
 }
 
 .Choose-us h2 {
@@ -1765,7 +1765,7 @@ aside li {
 }
 
 .Choose-us .d-flex figure {
-    background-color: #1141BE;
+    background-color: #0d5195;
     padding: 16px;
     border-radius: 50%;
     display: inline-block;
@@ -1883,7 +1883,7 @@ aside li {
     content: '';
     width: 100%;
     height: 100%;
-    background: #1141BED9;
+    background: #0d5195D9;
     top: 0px;
     left: 0px;
 }
@@ -1920,7 +1920,7 @@ aside li {
 }
 
 .Achievements .d-flex h1 {
-    color: #1141BE;
+    color: #0d5195;
 }
 
 .Achievements .d-flex h3,
@@ -2060,7 +2060,7 @@ aside li {
     content: "\f0dd";
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
-    color: #1141BE;
+    color: #0d5195;
     font-size: 16px;
     position: absolute;
     right: 6px;
@@ -2191,7 +2191,7 @@ aside li {
 }
 
 .Case-studies h4 {
-    color: #1141BE;
+    color: #0d5195;
 }
 
 .Case-studies h2 {
@@ -2407,7 +2407,7 @@ aside li {
 }
 
 .Testimonials h4 {
-    color: #1141BE;
+    color: #0d5195;
 }
 
 .Testimonials h2 {
@@ -2486,7 +2486,7 @@ aside li {
 }
 
 .Testimonials .mySlides h3 {
-    color: #1141BE;
+    color: #0d5195;
 }
 
 .Testimonials .dot-container {
@@ -2508,7 +2508,7 @@ aside li {
 
 .Testimonials .dot.active,
 .Testimonials .dot:hover {
-    background-color: #1141BE;
+    background-color: #0d5195;
 }
 
 .Testimonials {
@@ -2665,7 +2665,7 @@ aside li {
 }
 
 .Team h4 {
-    color: #1141BE;
+    color: #0d5195;
 }
 
 .Team h2 {
@@ -3034,7 +3034,7 @@ aside li {
 }
 
 .Questions h4 {
-    color: #1141BE;
+    color: #0d5195;
     text-align: center;
     margin: 0px 0px 15px;
 }
@@ -3121,7 +3121,7 @@ aside li {
     display: block;
     float: right;
     font-size: 24px;
-    color: #1141BE;
+    color: #0d5195;
     padding-left: 12px;
 }
 
@@ -3241,7 +3241,7 @@ aside li {
 }
 
 .News h4 {
-    color: #1141BE;
+    color: #0d5195;
 }
 
 .News h2,
@@ -3316,7 +3316,7 @@ aside li {
 .News .d-flex figure p {
     font-size: 14px;
     font-weight: 300;
-    color: #1141BE;
+    color: #0d5195;
     display: inline-block;
     padding: 0px 4px;
 }
@@ -3327,7 +3327,7 @@ aside li {
 
 .News .d-flex div a {
     transition: color 0.3s ease;
-    color: #1141BE;
+    color: #0d5195;
 }
 
 .News .d-flex div a:hover {
@@ -3335,7 +3335,7 @@ aside li {
 }
 
 .News .d-flex div a i {
-    background-color: #1141BE;
+    background-color: #0d5195;
     color: #FFF;
     padding: 6px 12px;
     border-radius: 14px;
@@ -3432,7 +3432,7 @@ aside li {
 /* 1.15. Subscribe section */
 .Subscribe {
     padding-top: 150px;
-    background: linear-gradient(to bottom, transparent 80%, #1141BE 80%);
+    background: linear-gradient(to bottom, transparent 80%, #0d5195 80%);
     position: relative;
     top: 3px;
 }
@@ -3475,7 +3475,7 @@ aside li {
 .Subscribe form button {
     border-radius: 0px 8px 8px 0px;
     border: none;
-    background-color: #1141BE;
+    background-color: #0d5195;
     color: #FFF;
     width: 25%;
     padding: 18px 10px !important;
@@ -3575,7 +3575,7 @@ aside li {
 
 /* 1.16. Footer section */
 footer {
-    background: #1141BE;
+    background: #0d5195;
 }
 
 footer figure img {
@@ -3888,7 +3888,7 @@ footer .copyright p {
 }
 
 .Company-Info .col-lg-6:nth-child(1) h1 {
-    color: #1141BE;
+    color: #0d5195;
 }
 
 .Company-Info .col-lg-6:nth-child(1) h3 {
@@ -3910,7 +3910,7 @@ footer .copyright p {
 }
 
 .Company-Info .col-lg-6:nth-child(2) h4 {
-    color: #1141BE;
+    color: #0d5195;
 }
 
 .Company-Info .col-lg-6:nth-child(2) h2,
@@ -3951,7 +3951,7 @@ footer .copyright p {
 }
 
 .Company-Info .pt-5 h3 {
-    color: #1141BE;
+    color: #0d5195;
 }
 
 .Company-Info .pt-5 p {
@@ -4133,7 +4133,7 @@ footer .copyright p {
 }
 
 .Values h4 {
-    color: #1141BE;
+    color: #0d5195;
 }
 
 .Values h2 {
@@ -4246,7 +4246,7 @@ footer .copyright p {
 }
 
 .Contact-Us .flex-column {
-    background: #1141BE;
+    background: #0d5195;
     gap: 24px;
     align-items: flex-start;
     padding: 40px 50px;
@@ -4502,7 +4502,7 @@ footer .copyright p {
 }
 
 .Feedback h5 {
-    color: #1141BE;
+    color: #0d5195;
 }
 
 .Feedback i {
