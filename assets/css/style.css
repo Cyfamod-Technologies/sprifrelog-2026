@@ -725,6 +725,15 @@ aside li {
     margin: 0px auto;
 }
 
+.About-us .CompaniesSlider .brand-name {
+    margin-top: 12px;
+    margin-bottom: 0;
+    text-align: center;
+    color: #3E3F41;
+    font-size: 16px;
+    font-weight: 600;
+}
+
 @media (max-width: 1400px) {
     .About-us a {
         margin: 50px 0px;
